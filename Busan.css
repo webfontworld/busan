@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Busan';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/busan/Busan.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/busan/Busan.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/busan/Busan.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/busan/Busan.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/busan/Busan.ttf') format("truetype");
+    font-display: swap;
+} 
